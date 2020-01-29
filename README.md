@@ -2,9 +2,9 @@
 ## Created By: Julio Hernandez & Shannon Lichtenwalter
 
 ### Links
-See it Live: https://spaced-repetition-julio-shannon-client.now.sh/
-Client Repo: https://github.com/thinkful-ei-heron/spaced-repetition-Julio-Shannon-client
-Server Repo: https://github.com/thinkful-ei-heron/spaced-repetition-Julio-Shannon-server
+See it Live: https://spaced-repetition-capstone-project.now.sh
+Client Repo: https://github.com/shannon-lichtenwalter/spaced-repetition-client
+Server Repo: https://github.com/shannon-lichtenwalter/spaced-repetition-server
 
 ### Introduction
 This application is a platform for learning French through the technique of spaced repetition to help with memorization. With this application the user can create an account and login. They can see a dashboard to view their learning progress. The user is able to 'Start Practicing' where they will be given a French word that they must type in the translation for. The user will be notified if their answer is correct or incorrect. The user will see their updated scores. The user can then move on to practicing more words. Happy Learning!
